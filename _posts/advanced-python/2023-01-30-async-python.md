@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Asynchronous programming in Python"
+title:  "Exploring the World of Asynchronous Programming in Python: A Comprehensive Guide"
 date:   2023-01-30 19:25:37 +0000
 categories: advanced python
 ---

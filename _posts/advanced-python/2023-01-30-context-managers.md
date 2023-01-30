@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Context managers"
+title:  "Unlocking the Power of Context Managers in Python: A Beginner's Guide"
 date:   2023-01-30 19:25:37 +0000
 categories: python context managers
 ---
