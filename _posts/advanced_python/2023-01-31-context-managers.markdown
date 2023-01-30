@@ -2,7 +2,7 @@
 layout: post
 title:  "Context managers"
 date:   2023-01-31 19:25:37 +0000
-categories: advanced python
+categories: advanced python context managers
 ---
 
 Context managers are a powerful feature in Python that allow you to manage resources, such as files, sockets, and database connections, in a controlled and efficient way. They are implemented using the `with` statement and the `__enter__()` and `__exit__()` methods. In this article, we will explore the inner workings of context managers, the benefits of using them, and how they differ from other programming languages.
