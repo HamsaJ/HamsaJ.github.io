@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tech Tackles - Navigating Advanced Topics with a Software Engineer
+title: Tech Tackles - Navigating Advanced Topics
 email: jama_h@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    I welcome you to my blog on advanced topics. 
