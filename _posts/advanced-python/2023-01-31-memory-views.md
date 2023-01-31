@@ -29,7 +29,7 @@ Another limitation of memory views is that they can be somewhat slow when compar
 
 Here is an example of how you can create and use a memory view in Python:
 
-```php
+```python
 import array
 
 # Create a new array object
